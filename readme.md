@@ -1,6 +1,6 @@
-# Scotrail Wifi Connect
+# ScotRail Wifi Connect
 
-![Scotrail](https://user-images.githubusercontent.com/1159378/36716951-10095840-1b94-11e8-88dc-afa71e4c2a42.png)
+![ScotRail](https://user-images.githubusercontent.com/1159378/36716951-10095840-1b94-11e8-88dc-afa71e4c2a42.png)
 
 ## What?
 

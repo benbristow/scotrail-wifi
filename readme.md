@@ -1,5 +1,7 @@
 # Scotrail Wifi Connect
 
+![Scotrail](https://user-images.githubusercontent.com/1159378/36716951-10095840-1b94-11e8-88dc-afa71e4c2a42.png)
+
 ## What?
 
 * Total hackjob script. Should connect you automatically to most Icomera ScotRail 'Scotrail Free Wifi' train hotspots instantly. Developed & tested on an East Kilbride service.

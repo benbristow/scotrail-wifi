@@ -12,7 +12,11 @@
 
 ## Use it
 
+Ensure you have a recent version of Ruby installed and Bundler
+
 ```
+git clone https://github.com/benbristow/scotrail-wifi.git
+cd scotrail-wifi
 bundle install
 chmod +x wifi.rb
 ./wifi.rb

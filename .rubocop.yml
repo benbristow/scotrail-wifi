@@ -1,0 +1,5 @@
+Lint/RescueException:
+  Enabled: false
+
+Metrics/LineLength:
+  Enabled: false

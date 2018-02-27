@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
+Dir.chdir(__dir__)
 require 'open-uri'
 require 'openssl'
 require 'rubygems'

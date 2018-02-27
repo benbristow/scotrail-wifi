@@ -4,7 +4,7 @@
 
 ## What?
 
-* Total hackjob script. Should connect you automatically to most Icomera ScotRail 'Scotrail Free Wifi' train hotspots instantly. Developed & tested on an East Kilbride service.
+* Total hackjob script. Should connect you automatically to most Icomera ScotRail 'ScotRail Free Wifi' train hotspots instantly. Developed & tested on an East Kilbride service.
 
 * Will not work within stations - they use Level3 WiFi hotspots for that instead which use a different authentication system.
 

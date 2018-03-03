@@ -22,6 +22,10 @@ chmod +x wifi.rb
 ./wifi.rb
 ```
 
+## Known issues
+
+* Does not seem to work on newish Desiro trains (e.g. the fancy electric trains that run on the Ayr line) 
+
 ## Legal
 
 This goes without saying. By using this script you agree to use the WiFi sensibly as it's provided for all passengers. By using this script you also agree to any/all ScotRail WiFi T&C's.
